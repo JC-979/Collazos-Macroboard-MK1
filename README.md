@@ -13,8 +13,9 @@ This is the first Macroboard that i have made, and this made me interested on th
 ## Screenshots
 
 ## Overall Hackpad
-<img width="672" height="630" alt="image" src="https://github.com/user-attachments/assets/cce69472-a1f7-495d-952d-ebc70d980201" />
-<img width="678" height="632" alt="image" src="https://github.com/user-attachments/assets/cf3cfb97-1318-4f8a-8be5-f5083138e590" />
+
+- <img width="672" height="630" alt="image" src="https://github.com/user-attachments/assets/cce69472-a1f7-495d-952d-ebc70d980201" />
+- <img width="678" height="632" alt="image" src="https://github.com/user-attachments/assets/cf3cfb97-1318-4f8a-8be5-f5083138e590" />
 
 ## Schematics
 <img width="1117" height="781" alt="image" src="https://github.com/user-attachments/assets/528652e2-fa78-45fa-be0b-a6f30f84335a" />
